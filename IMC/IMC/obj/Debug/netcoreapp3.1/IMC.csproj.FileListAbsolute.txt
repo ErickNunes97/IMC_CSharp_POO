@@ -1,0 +1,14 @@
+C:\Users\erick\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfo.cs
+C:\Users\erick\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.exe
+C:\Users\erick\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.deps.json
+C:\Users\erick\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.runtimeconfig.json
+C:\Users\erick\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.runtimeconfig.dev.json
+C:\Users\erick\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.dll
+C:\Users\erick\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.pdb
+C:\Users\erick\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.dll
+C:\Users\erick\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.pdb
+C:\Users\erick\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.genruntimeconfig.cache
