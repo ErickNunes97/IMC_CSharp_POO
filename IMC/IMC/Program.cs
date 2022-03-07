@@ -11,8 +11,6 @@ namespace IMC
 
         public static void Main(String[] args)
         {
-
-            
             Person objPerson = new Person(name, age);
             Health objHealth = new Health(weight, height);
             Console.WriteLine("Hello! input the client data: \nClient Name: ");
@@ -22,25 +20,19 @@ namespace IMC
             objPerson.SetName(name);
             objPerson.SetAge(age);
 
-
-            Console.WriteLine("|------------------------------|");
+            Console.WriteLine("\n|---------------------------------------------------------------------|\n");
             Console.WriteLine("Enter with Weight and Height of " + objPerson.GetName());
             Console.WriteLine("Height: ");
             height = float.Parse(Console.ReadLine());
             Console.WriteLine("Weight: ");
             weight = float.Parse(Console.ReadLine());
 
-
             objHealth.SetHeight(height);
             objHealth.SetWeight(weight);
 
             Calc objCalc = new Calc(objHealth.GetHeight(), objHealth.GetWeight());
             
-
-
-
-
-            Console.WriteLine("|-------------------------------------|");
+            Console.WriteLine("\n|---------------------------------------------------------------------|\n");
             Console.WriteLine("Result:\n"); 
             Console.WriteLine("Client Data: ");
             Console.WriteLine("Name: " + objPerson.GetName());
